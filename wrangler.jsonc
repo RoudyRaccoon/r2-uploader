@@ -1,7 +1,7 @@
 {
-13:33:47.348	    "name": "fosbat-r2-manager",
-13:33:47.348	    "compatibility_date": "2025-11-05",
-13:33:47.348	    "assets": {
-13:33:47.348	      "directory": "./dist"
-13:33:47.348	    }
-13:33:47.348	  }
+"name": "fosbat-r2-manager",
+"compatibility_date": "2025-11-05",
+"assets": {
+"directory": "./dist"
+}
+}
